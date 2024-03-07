@@ -14,6 +14,10 @@
         - 系统架构
         - 功能模块
     - 经济模型
+        - costumer & gym holders
+        - ![image](https://github.com/zt-x/KeeepFit/assets/73433437/8acfb346-d753-4c50-af9b-b889f020d926)
+        - gym holders
+        - 每一家店铺在开店时会生成一个ERC20的合约，Token的持有者可以根据持有份额每个月进行一次分红
 - **Time Schedule**
 - **优化**
     - 功能拓展
